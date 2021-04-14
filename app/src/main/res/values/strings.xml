@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Joud-midT1</string>
+    <string name="textline">welcome to the project of joud 191158</string>
+    <string name="enterid">enter ID </string>
+    <string name="entername">enter name</string>
+    <string name="enteremail">enter email</string>
+    <string name="phonenum">enter phone num</string>
+    <string name="insert">insert</string>
+    <string name="goactivity2">2nd activity</string>
+    <string name="goactivity3">3rd activity</string>
+</resources>
